@@ -1,0 +1,41 @@
+button {
+    margin:auto;
+}
+
+hr {
+    font-size: large;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+body {
+    background-color: darkblue;
+    color: whitesmoke
+}
+
+.col {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.container {
+    background-color: black;
+    border: 5px darkslategray solid;
+    border-radius: 35px;
+}
+
+.story {
+    font-size: 5rem;
+    font-weight: 600;
+}
+
+.card {
+    color: black;
+    font-size: 2rem;
+    margin:auto;
+}
+
+ul {
+    list-style: none;
+}
